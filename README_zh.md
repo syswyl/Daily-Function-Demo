@@ -20,7 +20,7 @@ txt中的图片文件名字读取图片，获取txt中每行数据（代表一�
 
 在工作中可能出现，不同路径下建立了名字类似的文件夹，比如d:\A\张三，d:\b\张三-简历，但是现在需要见简历文件夹下的所有文件移动
 到张三中，一个一个的移动太慢了，通过遍历和模糊匹配再copy就可以很好的解决，代码就实现了遍历路径下的文件夹，并且匹配，移动的功能，针对自己的问题可以进行自定义调整。
-![问题示例](https://images.gitee.com/uploads/images/2020/1008/160839_aede1b02_5398340.jpeg "搜狗截图20201008160626.jpg")
+![问题示例](https://github.com/syswyl/Daily-Function-Demo/blob/main/images/file-mismatch.jpeg)
 
 
 4.   **根据xml结果文件，对图片中的目标框进行裁剪并且保存。** [根据xml裁剪图片中的目标框](https://github.com/syswyl/Daily-Function-Demo/blob/main/code/Crop-images-according-to-XML.py)
